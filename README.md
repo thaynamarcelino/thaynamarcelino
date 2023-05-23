@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou a Thayná Marcelino</h1>
+<h1 align="center">Oi 👋, Eu sou a Thayná Cristina</h1>
 <h3 align="center">Estudante de Banco de Dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Power BI e Linguagem**
