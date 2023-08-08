@@ -1,2 +1,2 @@
-# Oi, Eu sou a Thayná Cristina
+# Olá, Eu sou a Thayná Cristina
 Estudante de Banco de Dados
