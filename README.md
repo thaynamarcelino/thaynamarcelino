@@ -3,7 +3,6 @@ Sou formada em Banco de Dados e atualmente estou estudando Análise de Dados.
 ## Conecte-se comigo
 [![Gmail](https://img.shields.io/badge/Gmail-e6cff0?style=for-the-badge&logo=gmail&logoColor=black)](mailto:thayna.cristina970@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-e6cff0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/thaynamarcelino)
-[![Instagram](https://img.shields.io/badge/-Instagram-e6cff0?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/itsthaynah/)
 ## Habilidades
 ![Python](https://img.shields.io/badge/python-e6cff0?style=for-the-badge&logo=python&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-e6cff0?style=for-the-badge&logo=mysql&logoColor=black)
